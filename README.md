@@ -1,173 +1,155 @@
 # Books & Papers
 
 A personal library of technical and non-fiction books. English only.
-
 **107 books across 14 categories** — last organized November 2026.
 
 ---
 
-## Categories
+## Software Engineering
 
-| Folder | Count | Topics |
-|--------|------:|-------|
-| [software-engineering](#software-engineering) | 23 | Clean code, design patterns, TDD, refactoring |
-| [self-help-productivity](#self-help-productivity) | 15 | Mindset, habits, learning, performance |
-| [system-design-architecture](#system-design-architecture) | 15 | Distributed systems, microservices, databases, OS |
-| [economics-politics](#economics-politics) | 10 | Hayek, Graeber, political economy |
-| [algorithms-cs-fundamentals](#algorithms-cs-fundamentals) | 11 | Algorithms, CS theory, interview prep |
-| [programming-languages](#programming-languages) | 11 | Java, JavaScript, Python, Scala |
-| [ai-ml](#ai-ml) | 5 | ML systems, deep learning, AI safety |
-| [finance-quant](#finance-quant) | 4 | Quantitative finance, investing |
-| [research-papers](#research-papers) | 4 | Foundational distributed systems papers |
-| [security](#security) | 2 | Network security, social engineering |
-| [business-entrepreneurship](#business-entrepreneurship) | 3 | Startups, entrepreneurship |
-| [devops-agile](#devops-agile) | 2 | Engineering org performance |
-| [philosophy](#philosophy) | 1 | Genetics & human nature |
-| [languages](#languages) | 1 | English grammar |
+- [A Philosophy of Software Design](software-engineering/A%20Philosophy%20of%20Software%20Design.pdf)
+- [Agile Software Development](software-engineering/Agile%20Software%20Development.pdf)
+- [Clean Coder, The — Robert C. Martin](software-engineering/Clean%20Coder%2C%20The%20-%20A%20Code%20of%20Conduct%20for%20Professional%20Programmers%20-%20Autor%20%28Robert%20C.%20Martin%29.pdf)
+- [Coders at Work](software-engineering/coders%20at%20work.pdf)
+- [Design Patterns (GoF)](software-engineering/Design%20Patterns.pdf)
+- [Extreme Programming Explained](software-engineering/Extreme%20programming%20explained%20embrace%20change.pdf)
+- [Growing Object-Oriented Software, Guided by Tests](software-engineering/Growing%20Object-Oriented%20Software%2C%20Guided%20by%20Tests.pdf)
+- [Head First Design Patterns (2nd Edition)](software-engineering/Head%20First%20Design%20Patterns%20Building%20Extensible%20and%20Maintainable%20Object-Oriented%20Software%202nd%20Edition.pdf)
+- [Head First Design Patterns (O'Reilly, 1st Edition)](software-engineering/Head%20First%20Design%20Patterns%20-%20%5BO%60Reilly.%20Head%20First%5D.pdf)
+- [Object-Oriented Analysis and Design with Applications (3rd Ed)](software-engineering/Object-Oriented%20Analysis%20and%20Design%20with%20Applications%203rd%20Edition.pdf)
+- [Object Oriented Software Construction — Bertrand Meyer](software-engineering/Object%20Oriented%20Software%20Construction-Meyer.pdf)
+- [Patterns of Enterprise Application Architecture — Martin Fowler](software-engineering/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf)
+- [Programming Pearls](software-engineering/Programming%20Pearls.pdf)
+- [Refactoring](software-engineering/Refactoring.pdf)
+- [Software Design Decoded](software-engineering/Software%20design%20decoded.pdf)
+- [Software Engineering at Google](software-engineering/software%20engineering%20at%20google%20lessons%20learned%20from%20programming%20over%20time.pdf)
+- [Systemantics](software-engineering/Systemantics.pdf)
+- [Test-Driven Development By Example — Kent Beck](software-engineering/Test-Driven%20Development%20By%20Example%20%28Kent%20Beck%29.pdf)
+- [The Cathedral and the Bazaar — Eric Raymond](software-engineering/The%20Cathedral%20and%20the%20Bazaar%20-%20Raymond%20Eric.pdf)
+- [The Practice of Programming — Kernighan & Pike](software-engineering/The%20Practice%20of%20Programming%20-%20B.W.Kernighan%2C%20R.Pike.pdf)
+- [The Pragmatic Programmer (20th Anniversary Edition)](software-engineering/The%20Pragmatic%20Programmer%20Your%20Journey%20to%20Mastery%2C%2020th%20Anniversary%20Edition%20by%20Andrew%20Hunt%20David%20Hurst%20Thomas.pdf)
+- [We Programmers](software-engineering/We%20Programmers.pdf)
+- [Working Effectively with Legacy Code](software-engineering/Working%20effectively%20with%20Legacy%20Code.pdf)
 
----
+## Self-Help & Productivity
 
-## software-engineering
+- [Building a Second Brain — Tiago Forte](self-help-productivity/Building%20a%20Second%20Brain%20By%20Tiago%20Forte.pdf)
+- [Can't Hurt Me — David Goggins](self-help-productivity/Can%20t%20Hurt%20Me%20-%20David%20Goggins.pdf)
+- [College Success](self-help-productivity/college%20success.pdf)
+- [Extreme Ownership](self-help-productivity/Extreme%20ownership.pdf)
+- [How to Win Friends and Influence People](self-help-productivity/how%20to%20win%20friends%20and%20influence%20people.pdf)
+- [Make It Stick](self-help-productivity/Make%20It%20Stick.pdf)
+- [Mindset: The New Psychology of Success](self-help-productivity/Mindset%20-%20The%20New%20Psychology%20of%20Success.pdf)
+- [Outliers — Malcolm Gladwell](self-help-productivity/Outliers%20-%20Malcolm%20Gladwell.pdf)
+- [Range: Why Generalists Triumph in a Specialized World — David Epstein](self-help-productivity/Range%20-%20Why%20Generalists%20Triumph%20in%20a%20Specialized%20World%20-%20Autor%28David%20Epstein%29.pdf)
+- [Soft Skills](self-help-productivity/Soft%20Skills.pdf)
+- [The 7 Habits of Highly Effective People](self-help-productivity/The%207%20habits%20of%20highly%20effective%20people.pdf)
+- [The Compound Effect — Darren Hardy](self-help-productivity/The%20Compound%20Effect%20-%20Darren%20hardy.pdf)
+- [The Flinch](self-help-productivity/The%20flinch.pdf)
+- [The Inner Game of Tennis](self-help-productivity/The%20Inner%20Game%20of%20Tennis.pdf)
+- [Unlimited Memory](self-help-productivity/Unlimited%20memory.pdf)
 
-- A Philosophy of Software Design
-- Agile Software Development
-- Clean Coder, The — Robert C. Martin
-- coders at work
-- Design Patterns (GoF)
-- Extreme Programming Explained
-- Growing Object-Oriented Software, Guided by Tests
-- Head First Design Patterns (2nd Edition)
-- Head First Design Patterns (O'Reilly)
-- Object-Oriented Analysis and Design with Applications (3rd Ed)
-- Object Oriented Software Construction — Meyer
-- Patterns of Enterprise Application Architecture — Fowler
-- Programming Pearls
-- Refactoring
-- Software Design Decoded
-- Software Engineering at Google
-- Systemantics
-- Test-Driven Development By Example — Kent Beck
-- The Cathedral and the Bazaar — Eric Raymond
-- The Practice of Programming — Kernighan & Pike
-- The Pragmatic Programmer (20th Anniversary Ed)
-- We Programmers
-- Working Effectively with Legacy Code
+## System Design & Architecture
 
-## self-help-productivity
+- [Building Microservices — Sam Newman](system-design-architecture/Building%20Microservices%20-%20O_Reilly%20Media%20-%20Sam%20Newman.pdf)
+- [Database Internals](system-design-architecture/Database%20Internals.pdf)
+- [Designing Data-Intensive Applications — Martin Kleppmann (copy 1)](system-design-architecture/Designing%20Data%20Intensive%20Applications.pdf)
+- [Designing Data-Intensive Applications — Martin Kleppmann (copy 2)](system-design-architecture/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20%28z-lib.org%29.pdf)
+- [Designing Distributed Systems](system-design-architecture/Designing%20Distributed%20Systems.pdf)
+- [Domain-Driven Design — Eric Evans](system-design-architecture/Domain%20Driven%20Design%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software%20-%20Eric%20Evans.pdf)
+- [Fundamentals of Software Architecture](system-design-architecture/Fundamentals%20of%20Software%20Architecture.pdf)
+- [Microservices Patterns with Examples in Java](system-design-architecture/Microservices%20Patterns%20With%20examples%20in%20Java.pdf)
+- [Monolith to Microservices — Sam Newman](system-design-architecture/Monolith%20to%20Microservices%20Evolutionary%20Patterns%20to%20Transform%20Your%20Monolith%20by%20Sam%20Newman%20%28z-lib.org%29.pdf)
+- [Software Architecture in Practice](system-design-architecture/software%20architecture%20in%20practice.pdf)
+- [Software Architecture: The Hard Parts — Neal Ford](system-design-architecture/Software%20Architecture_%20The%20Hard%20Parts%20-%20Neal%20Ford%20-%20OReilly.pdf)
+- [System Design Interview](system-design-architecture/System%20Design%20Interview.pdf)
+- [Understanding Distributed Systems — Roberto Vitillo](system-design-architecture/Understanding%20distributed%20systems%20-%20%20Roberto%20Vitillo.pdf)
+- [What Every Programmer Should Know About Memory (short)](system-design-architecture/What%20Every%20Programmer%20Should%20Know%20About%20Memory.pdf)
+- [What Every Programmer Should Know About Memory — Ulrich Drepper, 2007 (full)](system-design-architecture/What%20Every%20Programmer%20Should%20Know%20About%20Memory%20-%20Ulrich%20Drepper%2C%202007.pdf)
 
-- Building a Second Brain — Tiago Forte
-- Can't Hurt Me — David Goggins
-- College Success
-- Extreme Ownership
-- How to Win Friends and Influence People
-- Make It Stick
-- Mindset — The New Psychology of Success
-- Outliers — Malcolm Gladwell
-- Range — Why Generalists Triumph in a Specialized World
-- Soft Skills
-- The 7 Habits of Highly Effective People
-- The Compound Effect — Darren Hardy
-- The Flinch
-- The Inner Game of Tennis
-- Unlimited Memory
+## Economics & Politics
 
-## system-design-architecture
+- [Fragments of an Anarchist Anthropology — David Graeber](economics-politics/Fragments%20of%20an%20Anarchist%20Anthropology%20-%20David%20Graeber.pdf)
+- [Law, Legislation and Liberty — Hayek](economics-politics/LAW%2C%20LEGISLATION%20AND%20LIBERTY%20-%20Hayek.pdf)
+- [Prices and Production and Other Works — Hayek](economics-politics/Prices%20and%20Production%20and%20Other%20Works_%20F.A.%20Hayek%20on%20Money.pdf)
+- [The Constitution of Liberty — Hayek](economics-politics/The%20constitution%20of%20liberty%20-%20Hayek.pdf)
+- [The Democracy Project — David Graeber](economics-politics/The%20democracy%20project%20-%20a%20history%20a%20crisis%20a%20movement%20-%20David%20Graeber.pdf)
+- [The Road to Serfdom — Hayek](economics-politics/The%20road%20to%20serfdom%20-%20Hayek%20Friedrich.pdf)
+- [The Sovereign Individual](economics-politics/The%20Sovereign%20Individual.pdf)
+- [The Tyranny of Merit](economics-politics/The%20tyranny%20of%20merit.pdf)
+- [The Ultimate Hidden Truth of the World — David Graeber](economics-politics/The%20Ultimate%20Hidden%20Truth%20of%20the%20World%20-%20David%20Graeber.pdf)
+- [Thinking in Systems — Donella Meadows](economics-politics/Thinking%20in%20Systems.pdf)
 
-- Building Microservices — Sam Newman
-- Database Internals
-- Designing Data-Intensive Applications — Kleppmann (×2 copies)
-- Designing Distributed Systems
-- Domain Driven Design — Eric Evans
-- Fundamentals of Software Architecture
-- Microservices Patterns with Examples in Java
-- Monolith to Microservices — Sam Newman
-- Software Architecture in Practice
-- Software Architecture: The Hard Parts — Neal Ford
-- System Design Interview
-- Understanding Distributed Systems — Roberto Vitillo
-- What Every Programmer Should Know About Memory (×2: short + Drepper 2007 full)
+## Algorithms & CS Fundamentals
 
-## economics-politics
+- [Algorithms Illuminated Part 1: The Basics](algorithms-cs-fundamentals/Algorithms%20Illuminated%20Part%201%20The%20Basics.pdf)
+- [But How Do It Know?](algorithms-cs-fundamentals/BUT%20HOW%20DO%20IT%20KNOW_.pdf)
+- [Concept of Mind](algorithms-cs-fundamentals/Concept%20of%20mind.pdf)
+- [Cracking the Coding Interview, 6th Edition (full, 92MB)](algorithms-cs-fundamentals/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf)
+- [Cracking the Coding Interview, 6th Edition (compact)](algorithms-cs-fundamentals/Cracking%20the%20Coding%20Interview-%206th%20Edition.pdf)
+- [Data and Reality](algorithms-cs-fundamentals/Data%20and%20reality.pdf)
+- [Grokking Algorithms](algorithms-cs-fundamentals/Grokking%20Algorithms%20-%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people.pdf)
+- [How to Solve It — George Polya](algorithms-cs-fundamentals/How%20To%20Solve%20It%20-%20George%20Polya.pdf)
+- [Introduction to Algorithms (CLRS)](algorithms-cs-fundamentals/Introduction%20to%20Algorithms.pdf)
+- [Mathematics and Plausible Reasoning Vol. II — Polya](algorithms-cs-fundamentals/Mathematics%20and%20Plausible%20Reasoning_%20Volume%20II%20Patterns%20of%20Plausible%20Inference.pdf)
+- [Structure and Interpretation of Computer Programs (SICP)](algorithms-cs-fundamentals/Structure%20and%20Interpretation%20%20of%20Computer%20Programs.pdf)
 
-- Fragments of an Anarchist Anthropology — David Graeber
-- LAW, LEGISLATION AND LIBERTY — Hayek
-- Prices and Production and Other Works — Hayek
-- The Constitution of Liberty — Hayek
-- The Democracy Project — David Graeber
-- The Road to Serfdom — Hayek
-- The Sovereign Individual
-- The Tyranny of Merit
-- The Ultimate Hidden Truth of the World — David Graeber
-- Thinking in Systems — Donella Meadows
+## Programming Languages
 
-## algorithms-cs-fundamentals
+- [Advanced Java](programming-languages/advanced%20Java.pdf)
+- [AngularJS Up and Running](programming-languages/AngularJS%20Up%20And%20Running.pdf)
+- [Effective Java](programming-languages/Effective%20Java.pdf)
+- [Eloquent JavaScript](programming-languages/Eloquent%20JavaScript.pdf)
+- [Python Essentials 1](programming-languages/Free%20EBook%20Python%20Essentials%201.pdf)
+- [Functional Programming in Scala](programming-languages/Functional%20Programming%20in%20Scala.pdf)
+- [Java Interview Notes](programming-languages/Java%20Interview%20Notes.pdf)
+- [JavaScript: The Definitive Guide — David Flanagan](programming-languages/JavaScript%20The%20Definitive%20Guide%20Master%20the%20Worlds%20Most-Used%20Programming%20Language%20by%20David%20Flanagan%20%28z-lib.org%29.pdf)
+- [Node.js in Action (2nd Edition)](programming-languages/Node.js%20in%20Action%2C%202nd%20Edition.pdf)
+- [Spring Boot in Action](programming-languages/Spring%20Boot%20in%20Action.pdf)
+- [Think Python](programming-languages/think%20python.pdf)
 
-- Algorithms Illuminated Part 1: The Basics
-- BUT HOW DO IT KNOW?
-- Concept of Mind
-- Cracking the Coding Interview, 6th Ed (×2 copies)
-- Data and Reality
-- Grokking Algorithms
-- How To Solve It — George Polya
-- Introduction to Algorithms (CLRS)
-- Mathematics and Plausible Reasoning Vol II — Polya
-- Structure and Interpretation of Computer Programs (SICP)
+## AI & Machine Learning
 
-## programming-languages
+- [AI Engineering — Chip Huyen](ai-ml/AI%20Engineering%20by%20Chip%20Huyen.pdf)
+- [Designing Machine Learning Systems](ai-ml/Designing%20Machine%20Learning%20Systems.pdf)
+- [Human Compatible — Stuart Russell](ai-ml/Human%20compatible.pdf)
+- [The Human Machine Team](ai-ml/The%20human%20machine%20team%20how%20to%20create%20synergy%20between%20human%20amd%20artificial%20intelligence%20that%20will.pdf)
+- [Understanding Deep Learning](ai-ml/Understanding%20Deep%20Learning.pdf)
 
-- Advanced Java
-- AngularJS Up and Running
-- Effective Java
-- Eloquent JavaScript
-- Free EBook Python Essentials 1
-- Functional Programming in Scala
-- Java Interview Notes
-- JavaScript: The Definitive Guide — Flanagan
-- Node.js in Action (2nd Ed)
-- Spring Boot in Action
-- Think Python
+## Finance & Quant
 
-## ai-ml
+- [A Practical Guide to Quantitative Finance Interviews](finance-quant/A%20Practical%20Guide%20To%20Quantitative%20Finance%20Interviews.pdf)
+- [Frequently Asked Questions in Quantitative Finance — 1st Edition](finance-quant/Frequently%20Asked%20Questions%20In%20Quantitative%20Finance%20-%20First%20Edition.pdf)
+- [Frequently Asked Questions in Quantitative Finance — 2nd Edition](finance-quant/Frequently%20Asked%20Questions%20In%20Quantitative%20Finance%20-%20Second%20Edition.pdf)
+- [The Man Who Solved the Market](finance-quant/The%20man%20who%20solved%20the%20market.pdf)
 
-- AI Engineering — Chip Huyen
-- Designing Machine Learning Systems
-- Human Compatible
-- The Human Machine Team
-- Understanding Deep Learning
+## Research Papers
 
-## finance-quant
+- [Dynamo: Amazon's Highly Available Key-Value Store](research-papers/Dynamo%20-%20Amazons%20highly%20available%20key%20value%20store.pdf)
+- [Kafka: A Distributed Messaging System for Log Processing](research-papers/Kafka%20-%20a%20Distributed%20Messaging%20System%20for%20Log%20Processing.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](research-papers/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
+- [The Google File System](research-papers/The%20Google%20File%20System.pdf)
 
-- A Practical Guide to Quantitative Finance Interviews
-- Frequently Asked Questions in Quantitative Finance (1st Ed)
-- Frequently Asked Questions in Quantitative Finance (2nd Ed)
-- The Man Who Solved the Market
+## Security
 
-## research-papers
+- [Silence on the Wire](security/Silence%20on%20the%20wire.pdf)
+- [The Art of Deception — Kevin Mitnick](security/The%20Art%20of%20Deception.pdf)
 
-- Dynamo: Amazon's Highly Available Key-Value Store
-- Kafka: A Distributed Messaging System for Log Processing
-- MapReduce: Simplified Data Processing on Large Clusters
-- The Google File System
+## Business & Entrepreneurship
 
-## security
+- [Entrepreneurship for Dummies (2nd Edition)](business-entrepreneurship/Entrepreneurship%20for%20Dummies%2C2%20-%20Allen%2C%20Kathleen__12375.pdf)
+- [Profit First](business-entrepreneurship/Profit%20First.pdf)
+- [The Startup Owner's Manual](business-entrepreneurship/The%20Startup%20Owner%20s%20Manual%20-%20A%20step%20by%20step%20guide%20for%20building%20a%20great%20company.pdf)
 
-- Silence on the Wire
-- The Art of Deception — Kevin Mitnick
+## DevOps & Agile
 
-## business-entrepreneurship
+- [Accelerate — Forsgren, Humble, Kim (copy 1)](devops-agile/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf)
+- [Accelerate — Forsgren, Humble, Kim (copy 2)](devops-agile/Accelerate%20The%20Science%20of%20Lean%20Software%20and%20DevOps%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organizations%20by%20Nicole%20Forsgren%20Jez%20Humble%20Gene%20Kim.pdf)
 
-- Entrepreneurship for Dummies (2nd Ed)
-- Profit First
-- The Startup Owner's Manual
+## Philosophy
 
-## devops-agile
+- [Blueprint — Robert Plomin](philosophy/Blueprint%20-%20Robert%20Plomin.pdf)
 
-- Accelerate — Nicole Forsgren, Jez Humble, Gene Kim (×2 copies)
+## Languages
 
-## philosophy
-
-- Blueprint — Robert Plomin
-
-## languages
-
-- English Grammar in Use — Murphy
+- [English Grammar in Use — Raymond Murphy](languages/English%20Grammar%20in%20Use%20-%20Murphy%20%20R.pdf)
